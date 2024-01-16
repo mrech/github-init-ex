@@ -1,3 +1,9 @@
+FOODS:
 Pasta
 Pancackes
 Rice
+
+MOVIES:
+Salt of the Earth
+The Brain That Wouldn't Die
+Tangled Destinies
